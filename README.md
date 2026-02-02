@@ -35,7 +35,7 @@ The following KPIs were created using DAX measures:
 - Profit breakdown by region
 - Interactive slicers for year, region, and category
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## Key Insights
 - Overall sales are strong, but profit does not increase at the same rate, suggesting potential margin pressure.
