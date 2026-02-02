@@ -44,10 +44,11 @@ The following KPIs were created using DAX measures:
 - The West region delivers the highest profit relative to other regions.
 
 ## Files Included
+```
 business-performance-dashboard/
 ├── README.md
 ├── Superstore.pbix
 ├── dashboard_screenshot.png
-
+```
 ## Summary
 This project demonstrates the full data analysis workflow, including data preparation, metric development, dashboard design, and insight generation.
